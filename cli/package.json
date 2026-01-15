@@ -1,0 +1,39 @@
+{
+  "name": "@pxmon/cli",
+  "version": "0.2.0",
+  "description": "CLI tool for interacting with the PXMON pixel monster world",
+  "main": "dist/index.js",
+  "bin": {
+    "pxmon": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint src/",
+    "test": "jest"
+  },
+  "keywords": [
+    "pxmon",
+    "solana",
+    "rpg",
+    "monster",
+    "cli"
+  ],
+  "author": "PXMON",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "commander": "^12.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -5,3 +5,4 @@
 [4] feat: implement create_agent instruction - 2026-01-16T09:20:00-08:00
 [5] feat: add agent config parameters - 2026-01-16T11:00:00-08:00
 [6] test: basic agent creation test - 2026-01-16T15:30:00-08:00
+[7] feat: implement deploy_agent instruction - 2026-01-17T10:00:00-08:00

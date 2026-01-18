@@ -7,3 +7,4 @@
 [6] test: basic agent creation test - 2026-01-16T15:30:00-08:00
 [7] feat: implement deploy_agent instruction - 2026-01-17T10:00:00-08:00
 [8] feat: add strategy storage on-chain - 2026-01-17T13:45:00-08:00
+[9] fix: account size calculation overflow - 2026-01-17T16:20:00-08:00

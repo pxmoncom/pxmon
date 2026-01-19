@@ -10,3 +10,4 @@
 [9] fix: account size calculation overflow - 2026-01-17T16:20:00-08:00
 [10] feat: add hunt instruction scaffold - 2026-01-18T09:30:00-08:00
 [11] feat: implement encounter generation - 2026-01-18T14:00:00-08:00
+[12] feat: add catch mechanics with rng - 2026-01-19T10:15:00-08:00

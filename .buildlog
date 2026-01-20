@@ -12,3 +12,4 @@
 [11] feat: implement encounter generation - 2026-01-18T14:00:00-08:00
 [12] feat: add catch mechanics with rng - 2026-01-19T10:15:00-08:00
 [13] fix: pda seed derivation for agent accounts - 2026-01-19T15:00:00-08:00
+[14] feat: implement battle damage formula - 2026-01-20T11:00:00-08:00

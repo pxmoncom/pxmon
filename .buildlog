@@ -13,3 +13,4 @@
 [12] feat: add catch mechanics with rng - 2026-01-19T10:15:00-08:00
 [13] fix: pda seed derivation for agent accounts - 2026-01-19T15:00:00-08:00
 [14] feat: implement battle damage formula - 2026-01-20T11:00:00-08:00
+[15] feat: add type effectiveness chart - 2026-01-20T14:30:00-08:00

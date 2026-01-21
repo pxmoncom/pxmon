@@ -14,3 +14,4 @@
 [13] fix: pda seed derivation for agent accounts - 2026-01-19T15:00:00-08:00
 [14] feat: implement battle damage formula - 2026-01-20T11:00:00-08:00
 [15] feat: add type effectiveness chart - 2026-01-20T14:30:00-08:00
+[16] test: battle damage calculation tests - 2026-01-20T17:00:00-08:00

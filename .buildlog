@@ -19,3 +19,4 @@
 [18] feat: implement badge progression system - 2026-01-21T13:15:00-08:00
 [19] feat: add heal instruction - 2026-01-22T10:00:00-08:00
 [20] feat: implement move_town instruction - 2026-01-22T14:45:00-08:00
+[21] fix: town validation bounds check - 2026-01-22T16:30:00-08:00

@@ -21,3 +21,4 @@
 [20] feat: implement move_town instruction - 2026-01-22T14:45:00-08:00
 [21] fix: town validation bounds check - 2026-01-22T16:30:00-08:00
 [22] feat: add monster data structures - 2026-01-23T09:00:00-08:00
+[23] feat: define 94 monster species - 2026-01-23T12:30:00-08:00

@@ -24,3 +24,4 @@
 [23] feat: define 94 monster species - 2026-01-23T12:30:00-08:00
 [24] feat: add rarity tiers (common/rare/legendary) - 2026-01-23T15:45:00-08:00
 [25] feat: implement xp and level system - 2026-01-24T10:30:00-08:00
+[26] fix: level cap enforcement at 55 - 2026-01-24T14:00:00-08:00

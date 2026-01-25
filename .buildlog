@@ -26,3 +26,4 @@
 [25] feat: implement xp and level system - 2026-01-24T10:30:00-08:00
 [26] fix: level cap enforcement at 55 - 2026-01-24T14:00:00-08:00
 [27] feat: add party management (max 4) - 2026-01-25T11:00:00-08:00
+[28] feat: implement bag storage (max 6) - 2026-01-25T15:15:00-08:00

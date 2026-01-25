@@ -1,3 +1,4 @@
 # Extra commits
 [1] chore: add .gitignore for build artifacts
 [2] refactor: split instructions into separate files
+[3] test: encounter generation probability tests

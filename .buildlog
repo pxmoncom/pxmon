@@ -28,3 +28,4 @@
 [27] feat: add party management (max 4) - 2026-01-25T11:00:00-08:00
 [28] feat: implement bag storage (max 6) - 2026-01-25T15:15:00-08:00
 [29] refactor: extract game constants - 2026-01-26T09:30:00-08:00
+[30] feat: add same-type party limit (max 2) - 2026-01-26T13:00:00-08:00

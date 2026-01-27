@@ -30,3 +30,4 @@
 [29] refactor: extract game constants - 2026-01-26T09:30:00-08:00
 [30] feat: add same-type party limit (max 2) - 2026-01-26T13:00:00-08:00
 [31] chore: add program error codes - 2026-01-27T10:00:00-08:00
+[32] test: party management edge cases - 2026-01-27T14:30:00-08:00

@@ -37,3 +37,4 @@
 [36] fix: rare pool spawn rate adjustment - 2026-01-29T14:00:00-08:00
 [37] chore: update anchor to 0.30.1 - 2026-01-30T11:30:00-08:00
 [38] docs: add program architecture overview - 2026-01-31T09:00:00-08:00
+[39] feat(sdk): initialize typescript sdk package - 2026-02-01T09:00:00-08:00

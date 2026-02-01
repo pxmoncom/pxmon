@@ -38,3 +38,4 @@
 [37] chore: update anchor to 0.30.1 - 2026-01-30T11:30:00-08:00
 [38] docs: add program architecture overview - 2026-01-31T09:00:00-08:00
 [39] feat(sdk): initialize typescript sdk package - 2026-02-01T09:00:00-08:00
+[40] feat(sdk): add idl type generation - 2026-02-01T11:30:00-08:00

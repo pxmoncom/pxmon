@@ -39,3 +39,4 @@
 [38] docs: add program architecture overview - 2026-01-31T09:00:00-08:00
 [39] feat(sdk): initialize typescript sdk package - 2026-02-01T09:00:00-08:00
 [40] feat(sdk): add idl type generation - 2026-02-01T11:30:00-08:00
+[41] feat(sdk): implement PxmonClient base class - 2026-02-01T15:00:00-08:00

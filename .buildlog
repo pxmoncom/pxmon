@@ -41,3 +41,4 @@
 [40] feat(sdk): add idl type generation - 2026-02-01T11:30:00-08:00
 [41] feat(sdk): implement PxmonClient base class - 2026-02-01T15:00:00-08:00
 [42] feat(sdk): add createAgent method - 2026-02-02T10:00:00-08:00
+[43] feat(sdk): implement deployAgent with strategy - 2026-02-02T14:15:00-08:00

@@ -44,3 +44,4 @@
 [43] feat(sdk): implement deployAgent with strategy - 2026-02-02T14:15:00-08:00
 [44] test(sdk): client initialization tests - 2026-02-02T16:30:00-08:00
 [45] feat(sdk): add hunt method with encounter parsing - 2026-02-03T09:45:00-08:00
+[46] feat(sdk): implement catch result decoding - 2026-02-03T13:00:00-08:00

@@ -3,3 +3,4 @@
 [2] refactor: split instructions into separate files
 [3] test: encounter generation probability tests
 [4] chore: add ci workflow for anchor tests
+[5] refactor(sdk): improve error messages

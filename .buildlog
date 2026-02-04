@@ -46,3 +46,4 @@
 [45] feat(sdk): add hunt method with encounter parsing - 2026-02-03T09:45:00-08:00
 [46] feat(sdk): implement catch result decoding - 2026-02-03T13:00:00-08:00
 [47] feat(sdk): add battle simulation helpers - 2026-02-03T16:00:00-08:00
+[48] feat(sdk): implement gym challenge flow - 2026-02-04T10:30:00-08:00

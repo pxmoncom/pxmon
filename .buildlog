@@ -47,3 +47,4 @@
 [46] feat(sdk): implement catch result decoding - 2026-02-03T13:00:00-08:00
 [47] feat(sdk): add battle simulation helpers - 2026-02-03T16:00:00-08:00
 [48] feat(sdk): implement gym challenge flow - 2026-02-04T10:30:00-08:00
+[49] feat(sdk): add heal and move methods - 2026-02-04T14:00:00-08:00

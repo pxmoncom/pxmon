@@ -48,3 +48,4 @@
 [47] feat(sdk): add battle simulation helpers - 2026-02-03T16:00:00-08:00
 [48] feat(sdk): implement gym challenge flow - 2026-02-04T10:30:00-08:00
 [49] feat(sdk): add heal and move methods - 2026-02-04T14:00:00-08:00
+[50] feat(sdk): add event subscription system - 2026-02-05T09:00:00-08:00

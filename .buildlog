@@ -52,3 +52,4 @@
 [51] feat(sdk): implement account change listeners - 2026-02-05T12:45:00-08:00
 [52] fix(sdk): handle connection timeouts gracefully - 2026-02-05T15:30:00-08:00
 [53] feat(sdk): add agent state query methods - 2026-02-06T10:00:00-08:00
+[54] feat(sdk): implement leaderboard queries - 2026-02-06T14:30:00-08:00

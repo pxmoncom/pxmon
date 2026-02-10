@@ -59,3 +59,4 @@
 [58] fix(sdk): blockhash expiry handling - 2026-02-08T14:45:00-08:00
 [59] feat(sdk): implement batch operations - 2026-02-09T11:00:00-08:00
 [60] test(sdk): integration test suite setup - 2026-02-09T15:00:00-08:00
+[61] feat(sdk): add type exports and barrel files - 2026-02-10T09:30:00-08:00

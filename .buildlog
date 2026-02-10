@@ -60,3 +60,4 @@
 [59] feat(sdk): implement batch operations - 2026-02-09T11:00:00-08:00
 [60] test(sdk): integration test suite setup - 2026-02-09T15:00:00-08:00
 [61] feat(sdk): add type exports and barrel files - 2026-02-10T09:30:00-08:00
+[62] docs(sdk): add usage examples - 2026-02-10T13:15:00-08:00

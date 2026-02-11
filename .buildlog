@@ -62,3 +62,4 @@
 [61] feat(sdk): add type exports and barrel files - 2026-02-10T09:30:00-08:00
 [62] docs(sdk): add usage examples - 2026-02-10T13:15:00-08:00
 [63] feat(sdk): add strategy builder utility - 2026-02-11T10:00:00-08:00
+[64] feat(sdk): implement catch filter helpers - 2026-02-11T14:00:00-08:00

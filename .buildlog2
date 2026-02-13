@@ -6,3 +6,4 @@
 [5] refactor(sdk): improve error messages
 [6] chore(sdk): add eslint configuration
 [7] fix(sdk): retry logic exponential backoff
+[8] chore(sdk): add tsconfig strict mode

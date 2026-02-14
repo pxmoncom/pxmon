@@ -66,3 +66,4 @@
 [65] fix(sdk): deserialization for large party arrays - 2026-02-12T09:00:00-08:00
 [66] chore(sdk): bump @solana/web3.js to 1.95 - 2026-02-12T13:30:00-08:00
 [67] test(sdk): add strategy builder tests - 2026-02-13T10:15:00-08:00
+[68] feat(sdk): export commonjs and esm builds - 2026-02-14T09:00:00-08:00

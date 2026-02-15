@@ -69,3 +69,4 @@
 [68] feat(sdk): export commonjs and esm builds - 2026-02-14T09:00:00-08:00
 [69] feat(api): initialize express server - 2026-02-15T09:00:00-08:00
 [70] feat(api): add agent CRUD endpoints - 2026-02-15T11:45:00-08:00
+[71] feat(api): implement authentication middleware - 2026-02-15T15:30:00-08:00

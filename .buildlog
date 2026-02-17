@@ -72,3 +72,4 @@
 [71] feat(api): implement authentication middleware - 2026-02-15T15:30:00-08:00
 [72] feat(api): add hunt endpoint with rng seed - 2026-02-16T10:00:00-08:00
 [73] feat(api): implement battle resolution endpoint - 2026-02-16T14:00:00-08:00
+[74] feat(api): add gym challenge endpoint - 2026-02-16T16:15:00-08:00

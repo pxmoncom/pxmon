@@ -73,3 +73,4 @@
 [72] feat(api): add hunt endpoint with rng seed - 2026-02-16T10:00:00-08:00
 [73] feat(api): implement battle resolution endpoint - 2026-02-16T14:00:00-08:00
 [74] feat(api): add gym challenge endpoint - 2026-02-16T16:15:00-08:00
+[75] feat(api): implement heal endpoint - 2026-02-17T09:30:00-08:00

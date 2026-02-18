@@ -77,3 +77,4 @@
 [76] feat(api): add movement endpoint with route validation - 2026-02-17T13:00:00-08:00
 [77] fix(api): rate limiting per agent - 2026-02-17T16:30:00-08:00
 [78] feat(api): add global clock endpoint - 2026-02-18T10:00:00-08:00
+[79] feat(api): implement event log streaming - 2026-02-18T14:30:00-08:00

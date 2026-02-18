@@ -75,3 +75,4 @@
 [74] feat(api): add gym challenge endpoint - 2026-02-16T16:15:00-08:00
 [75] feat(api): implement heal endpoint - 2026-02-17T09:30:00-08:00
 [76] feat(api): add movement endpoint with route validation - 2026-02-17T13:00:00-08:00
+[77] fix(api): rate limiting per agent - 2026-02-17T16:30:00-08:00

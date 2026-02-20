@@ -80,3 +80,4 @@
 [79] feat(api): implement event log streaming - 2026-02-18T14:30:00-08:00
 [80] feat(api): add leaderboard endpoint - 2026-02-19T09:15:00-08:00
 [81] feat(api): implement world state endpoint - 2026-02-19T13:00:00-08:00
+[82] fix(api): cors configuration for frontend - 2026-02-19T16:00:00-08:00

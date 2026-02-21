@@ -83,3 +83,4 @@
 [82] fix(api): cors configuration for frontend - 2026-02-19T16:00:00-08:00
 [83] feat(api): add agent tick processor - 2026-02-20T10:30:00-08:00
 [84] feat(api): implement auto-save with json backup - 2026-02-20T14:00:00-08:00
+[85] feat(api): add websocket support for live events - 2026-02-21T09:00:00-08:00

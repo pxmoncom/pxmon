@@ -85,3 +85,4 @@
 [84] feat(api): implement auto-save with json backup - 2026-02-20T14:00:00-08:00
 [85] feat(api): add websocket support for live events - 2026-02-21T09:00:00-08:00
 [86] fix(api): memory leak in event listener cleanup - 2026-02-21T13:45:00-08:00
+[87] feat(api): implement agent strategy endpoint - 2026-02-22T10:00:00-08:00

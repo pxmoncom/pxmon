@@ -88,3 +88,4 @@
 [87] feat(api): implement agent strategy endpoint - 2026-02-22T10:00:00-08:00
 [88] feat(api): add monster database endpoint - 2026-02-22T14:15:00-08:00
 [89] refactor(api): extract route handlers to controllers - 2026-02-23T09:30:00-08:00
+[90] test(api): add endpoint integration tests - 2026-02-23T13:00:00-08:00

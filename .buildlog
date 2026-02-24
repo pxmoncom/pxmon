@@ -90,3 +90,4 @@
 [89] refactor(api): extract route handlers to controllers - 2026-02-23T09:30:00-08:00
 [90] test(api): add endpoint integration tests - 2026-02-23T13:00:00-08:00
 [91] feat(api): add health check endpoint - 2026-02-24T10:00:00-08:00
+[92] fix(api): json backup file rotation - 2026-02-24T14:30:00-08:00

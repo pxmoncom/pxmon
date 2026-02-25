@@ -9,3 +9,4 @@
 [8] chore(sdk): add tsconfig strict mode
 [9] test(api): rate limiter unit tests
 [10] refactor(api): extract validation helpers
+[11] chore(api): add pm2 configuration

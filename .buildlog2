@@ -10,3 +10,4 @@
 [9] test(api): rate limiter unit tests
 [10] refactor(api): extract validation helpers
 [11] chore(api): add pm2 configuration
+[12] test(api): websocket connection tests

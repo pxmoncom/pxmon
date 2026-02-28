@@ -96,3 +96,4 @@
 [95] feat(api): add error handling middleware - 2026-02-26T10:00:00-08:00
 [96] fix(api): handle concurrent agent updates - 2026-02-26T14:45:00-08:00
 [97] chore(api): docker configuration - 2026-02-27T09:30:00-08:00
+[98] docs(api): add endpoint documentation - 2026-02-28T10:00:00-08:00

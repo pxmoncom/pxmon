@@ -102,3 +102,4 @@
 [101] feat(agents): implement strategy loader - 2026-03-01T15:00:00-08:00
 [102] feat(agents): add hunt behavior module - 2026-03-02T10:00:00-08:00
 [103] feat(agents): implement catch decision logic - 2026-03-02T14:00:00-08:00
+[104] feat(agents): add type preference filtering - 2026-03-02T16:30:00-08:00

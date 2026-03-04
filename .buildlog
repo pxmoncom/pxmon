@@ -105,3 +105,4 @@
 [104] feat(agents): add type preference filtering - 2026-03-02T16:30:00-08:00
 [105] feat(agents): implement battle strategy module - 2026-03-03T09:15:00-08:00
 [106] feat(agents): add gym challenge behavior - 2026-03-03T13:00:00-08:00
+[107] fix(agents): gym prerequisite badge check - 2026-03-03T16:00:00-08:00

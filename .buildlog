@@ -110,3 +110,4 @@
 [109] feat(agents): add movement planning - 2026-03-04T14:30:00-08:00
 [110] feat(agents): implement team management logic - 2026-03-05T09:00:00-08:00
 [111] feat(agents): add smart replacement algorithm - 2026-03-05T12:45:00-08:00
+[112] fix(agents): duplicate type check in party - 2026-03-05T15:30:00-08:00

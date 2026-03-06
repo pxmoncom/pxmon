@@ -112,3 +112,4 @@
 [111] feat(agents): add smart replacement algorithm - 2026-03-05T12:45:00-08:00
 [112] fix(agents): duplicate type check in party - 2026-03-05T15:30:00-08:00
 [113] feat(agents): add event logging system - 2026-03-06T10:00:00-08:00
+[114] feat(agents): implement tick loop with backoff - 2026-03-06T14:00:00-08:00

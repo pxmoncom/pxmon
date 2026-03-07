@@ -114,3 +114,4 @@
 [113] feat(agents): add event logging system - 2026-03-06T10:00:00-08:00
 [114] feat(agents): implement tick loop with backoff - 2026-03-06T14:00:00-08:00
 [115] feat(agents): add llm strategy generator - 2026-03-07T09:30:00-08:00
+[116] feat(agents): implement openai integration - 2026-03-07T13:15:00-08:00

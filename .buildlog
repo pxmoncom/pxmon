@@ -118,3 +118,4 @@
 [117] feat(agents): add claude integration - 2026-03-07T16:45:00-08:00
 [118] feat(agents): implement strategy caching - 2026-03-08T10:00:00-08:00
 [119] fix(agents): api retry on 429 rate limit - 2026-03-08T14:00:00-08:00
+[120] feat(agents): add personality system - 2026-03-09T11:00:00-08:00

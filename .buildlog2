@@ -13,3 +13,4 @@
 [12] test(api): websocket connection tests
 [13] fix(agents): catch rate too high for legendaries
 [14] chore(agents): add logging configuration
+[15] refactor(agents): simplify decision tree

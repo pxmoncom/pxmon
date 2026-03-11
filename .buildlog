@@ -122,3 +122,4 @@
 [121] feat(agents): implement aggressive strategy template - 2026-03-09T15:00:00-08:00
 [122] feat(agents): add collector strategy template - 2026-03-10T09:00:00-08:00
 [123] feat(agents): implement speedrunner strategy - 2026-03-10T13:30:00-08:00
+[124] feat(agents): add balanced strategy template - 2026-03-11T10:00:00-08:00

@@ -124,3 +124,4 @@
 [123] feat(agents): implement speedrunner strategy - 2026-03-10T13:30:00-08:00
 [124] feat(agents): add balanced strategy template - 2026-03-11T10:00:00-08:00
 [125] test(agents): strategy template unit tests - 2026-03-11T14:15:00-08:00
+[126] feat(agents): add multi-agent runner - 2026-03-12T09:00:00-08:00

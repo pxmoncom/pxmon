@@ -14,3 +14,4 @@
 [13] fix(agents): catch rate too high for legendaries
 [14] chore(agents): add logging configuration
 [15] refactor(agents): simplify decision tree
+[16] fix(agents): pool shutdown graceful cleanup

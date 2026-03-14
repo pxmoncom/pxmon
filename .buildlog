@@ -128,3 +128,4 @@
 [127] feat(agents): implement concurrent agent pool - 2026-03-12T13:00:00-08:00
 [128] fix(agents): race condition in shared state - 2026-03-13T10:30:00-08:00
 [129] refactor(agents): extract common utilities - 2026-03-13T14:00:00-08:00
+[130] feat(agents): add cli argument parser - 2026-03-14T09:00:00-08:00

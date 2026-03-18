@@ -16,3 +16,4 @@
 [15] refactor(agents): simplify decision tree
 [16] fix(agents): pool shutdown graceful cleanup
 [17] chore(agents): add type hints throughout
+[18] test(cli): deploy command unit tests

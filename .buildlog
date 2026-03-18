@@ -139,3 +139,4 @@
 [138] feat(cli): implement logs command - 2026-03-17T13:15:00-08:00
 [139] feat(cli): add config management - 2026-03-17T16:00:00-08:00
 [140] fix(cli): keypair file path resolution - 2026-03-18T09:30:00-08:00
+[141] feat(cli): add interactive strategy wizard - 2026-03-18T13:00:00-08:00

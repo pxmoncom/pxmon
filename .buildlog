@@ -141,3 +141,4 @@
 [140] fix(cli): keypair file path resolution - 2026-03-18T09:30:00-08:00
 [141] feat(cli): add interactive strategy wizard - 2026-03-18T13:00:00-08:00
 [142] feat: implement cross-component event bus - 2026-03-19T10:00:00-08:00
+[143] feat: add unified error handling across packages - 2026-03-19T14:30:00-08:00

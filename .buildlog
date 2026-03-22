@@ -147,3 +147,4 @@
 [146] fix: event index wraparound at day boundary - 2026-03-20T16:15:00-08:00
 [147] feat: implement day/night cycle system - 2026-03-21T10:00:00-08:00
 [148] feat: add weather system based on game day - 2026-03-21T14:00:00-08:00
+[149] feat: add season rotation (spring/summer/fall/winter) - 2026-03-22T09:15:00-08:00

@@ -153,3 +153,4 @@
 [152] feat: add pre-generated trainer logs - 2026-03-23T14:00:00-08:00
 [153] feat: implement event replay system - 2026-03-23T16:45:00-08:00
 [154] fix: trainer state reconstruction from events - 2026-03-24T09:00:00-08:00
+[155] feat: add leaderboard calculation from logs - 2026-03-24T13:00:00-08:00

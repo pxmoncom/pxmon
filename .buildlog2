@@ -19,3 +19,4 @@
 [18] test(cli): deploy command unit tests
 [19] fix: race condition in concurrent agent ticks
 [20] chore: add contributing guidelines
+[21] fix: leaderboard tie-breaking by badge count

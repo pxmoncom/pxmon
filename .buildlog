@@ -157,3 +157,4 @@
 [156] refactor: normalize event format across systems - 2026-03-25T10:30:00-08:00
 [157] feat: add world chat from trainer events - 2026-03-25T14:00:00-08:00
 [158] fix: chat message deduplication - 2026-03-26T09:00:00-08:00
+[159] feat: add local chat filtered by town - 2026-03-26T13:15:00-08:00

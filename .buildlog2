@@ -21,3 +21,4 @@
 [20] chore: add contributing guidelines
 [21] fix: leaderboard tie-breaking by badge count
 [22] refactor: unify monster type enums
+[23] test: end-to-end agent lifecycle test

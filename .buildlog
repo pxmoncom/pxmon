@@ -160,3 +160,4 @@
 [159] feat: add local chat filtered by town - 2026-03-26T13:15:00-08:00
 [160] feat: implement trainer avatar system - 2026-03-27T10:00:00-08:00
 [161] fix: avatar rendering at small sizes - 2026-03-27T14:30:00-08:00
+[162] feat: add sprite loading with fallbacks - 2026-03-28T09:00:00-08:00

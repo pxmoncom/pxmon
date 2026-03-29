@@ -162,3 +162,4 @@
 [161] fix: avatar rendering at small sizes - 2026-03-27T14:30:00-08:00
 [162] feat: add sprite loading with fallbacks - 2026-03-28T09:00:00-08:00
 [163] feat: implement monster sprite system - 2026-03-28T13:00:00-08:00
+[164] chore: optimize sprite atlas loading - 2026-03-29T10:00:00-08:00

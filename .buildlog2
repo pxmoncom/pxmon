@@ -22,3 +22,4 @@
 [21] fix: leaderboard tie-breaking by badge count
 [22] refactor: unify monster type enums
 [23] test: end-to-end agent lifecycle test
+[24] fix: deploy wizard validation messages

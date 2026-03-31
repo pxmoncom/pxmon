@@ -166,3 +166,4 @@
 [165] fix: sprite path resolution on vercel - 2026-03-29T14:00:00-08:00
 [166] feat: add deploy modal with 3-step wizard - 2026-03-30T11:00:00-08:00
 [167] feat: implement api key configuration ui - 2026-03-30T15:00:00-08:00
+[168] feat: add strategy generation with llm - 2026-03-31T09:00:00-08:00

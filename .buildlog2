@@ -24,3 +24,4 @@
 [23] test: end-to-end agent lifecycle test
 [24] fix: deploy wizard validation messages
 [25] chore: add security policy
+[26] fix: loading progress bar stuck at 80%

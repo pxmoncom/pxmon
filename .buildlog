@@ -171,3 +171,4 @@
 [170] feat: add loading screen monster parade - 2026-04-01T10:30:00-08:00
 [171] fix: parade animation overlap at loop point - 2026-04-01T12:00:00-08:00
 [172] feat: implement hud bar with game clock - 2026-04-01T13:30:00-08:00
+[173] feat: add day/night visual overlay - 2026-04-01T15:00:00-08:00

@@ -167,3 +167,4 @@
 [166] feat: add deploy modal with 3-step wizard - 2026-03-30T11:00:00-08:00
 [167] feat: implement api key configuration ui - 2026-03-30T15:00:00-08:00
 [168] feat: add strategy generation with llm - 2026-03-31T09:00:00-08:00
+[169] fix: loading screen stuck on starter modal - 2026-04-01T09:00:00-08:00

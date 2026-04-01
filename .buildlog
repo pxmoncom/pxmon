@@ -169,3 +169,4 @@
 [168] feat: add strategy generation with llm - 2026-03-31T09:00:00-08:00
 [169] fix: loading screen stuck on starter modal - 2026-04-01T09:00:00-08:00
 [170] feat: add loading screen monster parade - 2026-04-01T10:30:00-08:00
+[171] fix: parade animation overlap at loop point - 2026-04-01T12:00:00-08:00

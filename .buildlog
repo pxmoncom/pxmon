@@ -179,3 +179,4 @@
 [178] feat: add my info panel with world stats - 2026-04-02T09:00:00-08:00
 [179] feat: implement agent connect ui - 2026-04-02T10:30:00-08:00
 [180] feat: add strategy display panel - 2026-04-02T12:00:00-08:00
+[181] fix: agent stuck in gym loop at low level - 2026-04-02T13:30:00-08:00

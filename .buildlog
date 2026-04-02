@@ -177,3 +177,4 @@
 [176] feat: implement badge display panel - 2026-04-01T19:30:00-08:00
 [177] fix: gym type mismatch (water gym had fire mons) - 2026-04-01T21:00:00-08:00
 [178] feat: add my info panel with world stats - 2026-04-02T09:00:00-08:00
+[179] feat: implement agent connect ui - 2026-04-02T10:30:00-08:00

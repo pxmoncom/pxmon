@@ -26,3 +26,4 @@
 [25] chore: add security policy
 [26] fix: loading progress bar stuck at 80%
 [27] refactor: extract panel renderers
+[28] fix: badge panel showing locked badges incorrectly

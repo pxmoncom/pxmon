@@ -25,3 +25,4 @@
 [24] fix: deploy wizard validation messages
 [25] chore: add security policy
 [26] fix: loading progress bar stuck at 80%
+[27] refactor: extract panel renderers

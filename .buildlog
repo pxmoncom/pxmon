@@ -185,3 +185,4 @@
 [184] feat: implement balance formula (xp curve) - 2026-04-02T18:00:00-08:00
 [185] fix: catch rate balance (common 40% rare 15%) - 2026-04-02T19:30:00-08:00
 [186] chore: configure vercel deployment - 2026-04-02T21:00:00-08:00
+[187] feat: add railway api deployment config - 2026-04-03T09:00:00-08:00

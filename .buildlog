@@ -188,3 +188,4 @@
 [187] feat: add railway api deployment config - 2026-04-03T09:00:00-08:00
 [188] fix: railway cors and binding to 0.0.0.0 - 2026-04-03T10:00:00-08:00
 [189] feat: add responsive layout breakpoints - 2026-04-03T11:00:00-08:00
+[190] fix: mobile menu layout overflow - 2026-04-03T12:00:00-08:00

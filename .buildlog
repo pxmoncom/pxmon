@@ -181,3 +181,4 @@
 [180] feat: add strategy display panel - 2026-04-02T12:00:00-08:00
 [181] fix: agent stuck in gym loop at low level - 2026-04-02T13:30:00-08:00
 [182] feat: add docs panel with api guide - 2026-04-02T15:00:00-08:00
+[183] fix: server epoch reset for day sync - 2026-04-02T16:30:00-08:00

@@ -191,3 +191,4 @@
 [190] fix: mobile menu layout overflow - 2026-04-03T12:00:00-08:00
 [191] feat: implement crt scanline overlay - 2026-04-03T13:00:00-08:00
 [192] fix: transparency system for panel backgrounds - 2026-04-03T14:00:00-08:00
+[193] feat: add auto-battle tick engine (15s interval) - 2026-04-03T15:00:00-08:00

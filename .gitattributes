@@ -1,0 +1,12 @@
+# Override GitHub language detection
+# Core: Rust on-chain program + Python agents
+# Supporting: SDK/API/CLI are wrappers
+
+sdk/src/utils/monster-data.ts linguist-generated
+sdk/src/utils/type-chart.ts linguist-generated
+sdk/tests/** linguist-generated
+api/tests/** linguist-generated
+cli/** linguist-vendored
+scripts/** linguist-vendored
+docs/** linguist-documentation
+*.json linguist-generated

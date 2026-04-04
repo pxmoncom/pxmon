@@ -194,3 +194,4 @@
 [193] feat: add auto-battle tick engine (15s interval) - 2026-04-03T15:00:00-08:00
 [194] fix: team building same-type max 2 enforcement - 2026-04-03T16:00:00-08:00
 [195] test: balance simulation user vs ai trainers - 2026-04-03T17:00:00-08:00
+[196] chore: cleanup unused code and dead imports - 2026-04-03T18:00:00-08:00

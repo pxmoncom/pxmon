@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="PXMON" width="100%" />
+</p>
+
 # PXMON
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-b03030?style=flat)](LICENSE)

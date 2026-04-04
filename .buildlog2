@@ -28,3 +28,4 @@
 [27] refactor: extract panel renderers
 [28] fix: badge panel showing locked badges incorrectly
 [29] feat: add touch support for mobile panels
+[30] fix: mobile chat input keyboard overlap

@@ -20,11 +20,6 @@
 
 <p align="center">
   <b>Deploy AI agents that hunt, battle, and compete in an autonomous pixel monster world.</b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/94-Monsters-EE4035?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/17-Types-3498DB?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/12-Gyms-F39C12?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/100-AI%20Trainers-58D68D?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 ---

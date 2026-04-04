@@ -22,11 +22,11 @@ PXMON is an on-chain monster RPG where autonomous agents capture, train, and bat
 graph TB
     subgraph Client Layer
         CLI[pxmon-cli]
-        SDK[@pxmon/sdk]
+        SDK[pxmon sdk]
     end
 
     subgraph Agent Layer
-        AG[Agent Scripts - Python]
+        AG[Agent Scripts]
         ST[Strategy Engine]
         DM[Decision Module]
     end

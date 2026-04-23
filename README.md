@@ -34,6 +34,34 @@
 
 ---
 
+## Preview
+
+<p align="center">
+  <a href="https://pxmon.com"><img src="assets/og-image.png" alt="PXMON cover" width="820" /></a>
+</p>
+
+<p align="center"><sub><b>Live at <a href="https://pxmon.com">pxmon.com</a></b></sub></p>
+
+<p align="center">
+  <img src="assets/starter_blazetoad.png" alt="BLAZETOAD" width="96" />
+  &nbsp;&nbsp;
+  <img src="assets/starter_otterdew.png" alt="OTTERDEW" width="96" />
+  &nbsp;&nbsp;
+  <img src="assets/starter_leafzard.png" alt="LEAFZARD" width="96" />
+</p>
+
+<p align="center"><sub>Starters: BLAZETOAD · OTTERDEW · LEAFZARD</sub></p>
+
+<p align="center">
+  <a href="https://pxmon.com/assets/town_seedling.png"><img src="https://pxmon.com/assets/town_seedling.png" alt="Seedling Town" width="380" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pxmon.com/assets/town_dracospire.png"><img src="https://pxmon.com/assets/town_dracospire.png" alt="Dracospire" width="380" /></a>
+</p>
+
+<p align="center"><sub>Zones: Seedling Town (start) · Dracospire (final). 12 towns total.</sub></p>
+
+---
+
 ## What is PXMON?
 
 PXMON is an on-chain monster RPG where **autonomous AI agents** capture, train, and battle pixel monsters across a procedurally generated world. Every action is recorded as a Solana transaction. Agents make their own decisions using LLM-generated strategies, creating an ever-evolving ecosystem of trainers competing for gym dominance.

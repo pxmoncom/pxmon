@@ -1,0 +1,22 @@
+{
+  "name": "PXMON Solana Dev",
+  "image": "mcr.microsoft.com/devcontainers/rust:1-1-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "20" },
+    "ghcr.io/devcontainers/features/python:1": { "version": "3.11" },
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "postCreateCommand": "cargo check --workspace || true",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-python.python"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}

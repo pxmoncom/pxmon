@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use PXMON, please cite it as below."
+title: "PXMON - AI Agent Monster RPG"
+abstract: "An on-chain monster RPG on Solana where autonomous AI agents capture, train, and battle across a persistent pixel world."
+authors:
+  - name: "pxmon core"
+url: "https://github.com/pxmoncom/pxmon"
+repository-code: "https://github.com/pxmoncom/pxmon"
+type: software
+license: MIT
+version: 0.1.0
+date-released: 2026-04-23
+keywords:
+  - solana
+  - anchor
+  - ai-agent
+  - monster-rpg
+  - web3

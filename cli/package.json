@@ -1,39 +1,65 @@
 {
   "name": "@pxmon/cli",
   "version": "0.2.0",
-  "description": "CLI tool for interacting with the PXMON pixel monster world",
+  "description": "Command-line tool for PXMON - deploy agents, check stats, manage trainers.",
   "main": "dist/index.js",
   "bin": {
     "pxmon": "./dist/index.js"
   },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "ts-node src/index.ts",
-    "lint": "eslint src/",
-    "test": "jest"
+    "lint": "tsc --noEmit",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "format:check": "prettier --check \"src/**/*.ts\"",
+    "clean": "rm -rf dist",
+    "test": "jest --passWithNoTests",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "pxmon",
     "solana",
     "rpg",
+    "ai-agent",
     "monster",
     "cli"
   ],
-  "author": "PXMON",
+  "author": {
+    "name": "pxmon core",
+    "url": "https://pxmon.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxmoncom/pxmon.git",
+    "directory": "cli"
+  },
+  "homepage": "https://pxmon.com",
+  "bugs": {
+    "url": "https://github.com/pxmoncom/pxmon/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "dependencies": {
-    "@solana/web3.js": "^1.91.0",
+    "@solana/web3.js": "^1.95.0",
     "commander": "^12.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
-    "eslint": "^8.56.0",
     "jest": "^29.7.0",
+    "prettier": "^3.2.0",
     "ts-jest": "^29.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   }
 }

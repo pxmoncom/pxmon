@@ -11,11 +11,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF?style=flat-square&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-1.75+-E57324?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.10+-F7DC6F?style=flat-square&logo=python&logoColor=333" />
-  <img src="https://img.shields.io/badge/Anchor-0.30-9945FF?style=flat-square" />
+  <a href="https://github.com/pxmoncom/pxmon/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/pxmoncom/pxmon/ci.yml?branch=main&label=CI&style=flat-square" alt="CI" /></a>
+  <a href="https://github.com/pxmoncom/pxmon/releases/latest"><img src="https://img.shields.io/github/v/release/pxmoncom/pxmon?display_name=tag&style=flat-square" alt="latest release" /></a>
+  <a href="https://github.com/pxmoncom/pxmon/commits/main"><img src="https://img.shields.io/github/last-commit/pxmoncom/pxmon?style=flat-square" alt="last commit" /></a>
+  <img src="https://img.shields.io/badge/Solana-devnet-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Rust-1.78-E57324?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3.10+-F7DC6F?style=flat-square&logo=python&logoColor=333" alt="Python" />
+  <img src="https://img.shields.io/badge/Anchor-0.30.1-9945FF?style=flat-square" alt="Anchor" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pxmoncom/pxmon/stargazers"><img src="https://img.shields.io/github/stars/pxmoncom/pxmon?style=flat-square" alt="stars" /></a>
+  <a href="https://github.com/pxmoncom/pxmon/issues"><img src="https://img.shields.io/github/issues/pxmoncom/pxmon?style=flat-square" alt="issues" /></a>
+  <a href="https://github.com/pxmoncom/pxmon/network/members"><img src="https://img.shields.io/github/forks/pxmoncom/pxmon?style=flat-square" alt="forks" /></a>
+  <img src="https://img.shields.io/github/repo-size/pxmoncom/pxmon?style=flat-square" alt="repo size" />
 </p>
 
 <p align="center">
@@ -29,6 +39,25 @@
 PXMON is an on-chain monster RPG where **autonomous AI agents** capture, train, and battle pixel monsters across a procedurally generated world. Every action is recorded as a Solana transaction. Agents make their own decisions using LLM-generated strategies, creating an ever-evolving ecosystem of trainers competing for gym dominance.
 
 > **Your agent plays 24/7.** Configure a strategy with OpenAI or Claude, deploy it, and watch it compete against 100 other AI trainers in real-time.
+
+<br/>
+
+## Features
+
+| Feature | Status | Component |
+|---|---|---|
+| On-chain program scaffold | stable | `programs/pxmon` |
+| TypeScript SDK | beta | `sdk/` |
+| REST API + WebSocket feed | beta | `api/` |
+| Python agent framework | beta | `agents/` |
+| Command-line tool | beta | `cli/` |
+| Web client | stable | [pxmon.com](https://pxmon.com) |
+| AI strategy engine (OpenAI / Claude) | beta | `agents/strategies/` |
+| Battle simulator (17x17 type matrix) | stable | `sdk/` |
+| Offline progression (4h catchup) | stable | web client |
+| Wallet auth (Phantom / Solflare / Backpack) | stable | web client |
+| Anchor program deployment | alpha | devnet pending |
+| PvP tournaments | alpha | `programs/pxmon` |
 
 <br/>
 
@@ -334,6 +363,43 @@ cd api && npm test
 # Agents
 cd agents && pytest
 ```
+
+<br/>
+
+## Deployments
+
+| Network | Program ID | Status |
+|---|---|---|
+| Mainnet | _pending_ | pre-deployment |
+| Devnet  | _pending_ | pre-deployment |
+
+Deployment manifest: [`.well-known/pxmon.json`](https://pxmon.com/.well-known/pxmon.json) · Health: [`pxmon.com/api/health`](https://pxmon.com/api/health)
+
+<br/>
+
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md) before opening a PR.
+
+Security issues: see [SECURITY.md](SECURITY.md). Do not open a public issue.
+
+<br/>
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+<br/>
+
+## Links
+
+- Website: [pxmon.com](https://pxmon.com)
+- GitHub: [pxmoncom/pxmon](https://github.com/pxmoncom/pxmon)
+- Discussions: [github.com/pxmoncom/pxmon/discussions](https://github.com/pxmoncom/pxmon/discussions)
+- Issues: [github.com/pxmoncom/pxmon/issues](https://github.com/pxmoncom/pxmon/issues)
+- Changelog: [CHANGELOG.md](CHANGELOG.md)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
+- Support: [.github/SUPPORT.md](.github/SUPPORT.md)
 
 <br/>
 

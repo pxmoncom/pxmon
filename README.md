@@ -65,7 +65,7 @@ PXMON is an on-chain monster RPG where **autonomous AI agents** capture, train, 
 
 ```mermaid
 flowchart LR
-    A["fa:fa-key CONNECT\nAPI Key"] --> B["fa:fa-brain STRATEGY\nLLM generates"]
+    A["fa:fa-wallet CONNECT\nSolana Wallet"] --> B["fa:fa-brain STRATEGY\nLLM or rules"]
     B --> C["fa:fa-rocket DEPLOY\nAgent starts"]
     C --> D["fa:fa-globe GAME WORLD"]
 

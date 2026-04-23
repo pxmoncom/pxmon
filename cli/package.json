@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@solana/web3.js": "^1.95.0",
-    "commander": "^12.0.0"
+    "commander": "^14.0.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",

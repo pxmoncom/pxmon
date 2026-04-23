@@ -220,7 +220,7 @@ Command-line interface built on Commander.js. Provides direct access to all game
 
 ### Development
 
-- On-chain program on localnet or devnet
+- On-chain program on localnet
 - API server on localhost with local PostgreSQL
 - Agents run in the same terminal for debugging
 - No proxy needed

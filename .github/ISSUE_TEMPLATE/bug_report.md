@@ -50,7 +50,7 @@ If this involves an on-chain transaction, provide the signature:
 - Rust version: 
 - Solana CLI version: 
 - Python version: 
-- Network (devnet/mainnet): 
+- Network: 
 
 ## Additional Context
 

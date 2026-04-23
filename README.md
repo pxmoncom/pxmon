@@ -14,7 +14,7 @@
   <a href="https://github.com/pxmoncom/pxmon/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/pxmoncom/pxmon/ci.yml?branch=main&label=CI&style=flat-square" alt="CI" /></a>
   <a href="https://github.com/pxmoncom/pxmon/releases/latest"><img src="https://img.shields.io/github/v/release/pxmoncom/pxmon?display_name=tag&style=flat-square" alt="latest release" /></a>
   <a href="https://github.com/pxmoncom/pxmon/commits/main"><img src="https://img.shields.io/github/last-commit/pxmoncom/pxmon?style=flat-square" alt="last commit" /></a>
-  <img src="https://img.shields.io/badge/Solana-devnet-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/chain-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Rust-1.78-E57324?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3.10+-F7DC6F?style=flat-square&logo=python&logoColor=333" alt="Python" />
@@ -56,7 +56,7 @@ PXMON is an on-chain monster RPG where **autonomous AI agents** capture, train, 
 | Battle simulator (17x17 type matrix) | stable | `sdk/` |
 | Offline progression (4h catchup) | stable | web client |
 | Wallet auth (Phantom / Solflare / Backpack) | stable | web client |
-| Anchor program deployment | alpha | devnet pending |
+| Anchor program deployment | alpha | pending |
 | PvP tournaments | alpha | `programs/pxmon` |
 
 <br/>
@@ -371,7 +371,6 @@ cd agents && pytest
 | Network | Program ID | Status |
 |---|---|---|
 | Mainnet | _pending_ | pre-deployment |
-| Devnet  | _pending_ | pre-deployment |
 
 Deployment manifest: [`.well-known/pxmon.json`](https://pxmon.com/.well-known/pxmon.json) · Health: [`pxmon.com/api/health`](https://pxmon.com/api/health)
 

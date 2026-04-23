@@ -1,0 +1,22 @@
+# PXMON code owners
+# Syntax: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner
+*                       @pxmoncom
+
+# On-chain program
+/programs/              @pxmoncom
+/Anchor.toml            @pxmoncom
+/Cargo.toml             @pxmoncom
+
+# Client libraries
+/sdk/                   @pxmoncom
+/cli/                   @pxmoncom
+
+# API and agents
+/api/                   @pxmoncom
+/agents/                @pxmoncom
+
+# CI & security
+/.github/               @pxmoncom
+/SECURITY.md            @pxmoncom

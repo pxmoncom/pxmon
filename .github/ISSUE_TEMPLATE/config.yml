@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Play PXMON
+    url: https://pxmon.com
+    about: Try the live game first before filing an issue.
+  - name: Support
+    url: https://github.com/pxmoncom/pxmon/blob/main/.github/SUPPORT.md
+    about: Look here before opening an issue.
+  - name: Security report
+    url: https://github.com/pxmoncom/pxmon/blob/main/SECURITY.md
+    about: Do NOT open a public issue for security vulnerabilities.

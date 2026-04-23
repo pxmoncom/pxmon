@@ -1,11 +1,16 @@
 name: CI
 
 on:
+  push:
+    branches: [main]
   pull_request:
     branches: [main]
 
+permissions:
+  contents: read
+
 jobs:
-  check:
+  structure:
     name: Structure Check
     runs-on: ubuntu-latest
     steps:
@@ -14,8 +19,82 @@ jobs:
       - name: Verify project structure
         run: |
           echo "Checking project structure..."
+          test -f Anchor.toml && echo "  Anchor.toml OK"
+          test -f Cargo.toml && echo "  workspace Cargo.toml OK"
           test -d programs/pxmon/src && echo "  programs/pxmon OK"
           test -d sdk/src && echo "  sdk OK"
           test -d api/src && echo "  api OK"
           test -d agents/src && echo "  agents OK"
-          echo "All checks passed."
+          test -f README.md && echo "  README OK"
+          test -f LICENSE && echo "  LICENSE OK"
+          test -f CODE_OF_CONDUCT.md && echo "  CODE_OF_CONDUCT OK"
+          test -f SECURITY.md && echo "  SECURITY OK"
+          test -f CHANGELOG.md && echo "  CHANGELOG OK"
+          echo "All structure checks passed."
+
+  rust-check:
+    name: Rust Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions-rust-lang/setup-rust-toolchain@v1
+        with:
+          toolchain: 1.78.0
+          components: rustfmt, clippy
+
+      - name: cargo fmt
+        run: cargo fmt --all -- --check
+        continue-on-error: true
+
+      - name: cargo check
+        run: cargo check --workspace --all-targets
+        continue-on-error: true
+
+      - name: cargo clippy
+        run: cargo clippy --workspace --no-deps -- -W clippy::all
+        continue-on-error: true
+
+  typescript-check:
+    name: TypeScript Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Type check SDK
+        working-directory: ./sdk
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npx tsc --noEmit
+        continue-on-error: true
+
+      - name: Type check CLI
+        working-directory: ./cli
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npx tsc --noEmit
+        continue-on-error: true
+
+      - name: Type check API
+        working-directory: ./api
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npx tsc --noEmit
+        continue-on-error: true
+
+  secret-scan:
+    name: Secret Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true

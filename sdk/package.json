@@ -54,7 +54,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@coral-xyz/anchor": "^0.30.1",
+    "@coral-xyz/anchor": "^0.32.1",
     "@solana/web3.js": "^1.95.0",
     "borsh": "^2.0.0"
   },
